@@ -1,5 +1,5 @@
 # FolderSynchronizer
-📁📌 A python script that synchronizes all the files in a folder based on it's extension.
+📁📌 A python script that organizes all the files in a folder based on it's extension.
 
 Get your cluttered directories 🗍🗍🗍🗍🗍🗍🗍🗍🗍 organized 📁📂📁 
 
